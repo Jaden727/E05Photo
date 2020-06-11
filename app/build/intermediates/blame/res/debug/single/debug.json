@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo2.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\layout\\activity_photo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_photo_camera_white_36dp.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_camera_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_photo3.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\layout\\content_photo3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_photo3.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\menu\\menu_photo3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_photo_white_24dp.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_photo1.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\menu\\menu_photo1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rain.jpg.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\drawable-xxxhdpi\\rain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo3.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\layout\\activity_photo3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout_file.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\layout\\file.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_photo_camera_white_24dp.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_camera_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo1.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\layout\\activity_photo1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\E05Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo_file.xml.flat",
+        "source": "C:\\Users\\user\\E05Photo\\app\\src\\main\\res\\layout\\photo_file.xml"
+    }
+]

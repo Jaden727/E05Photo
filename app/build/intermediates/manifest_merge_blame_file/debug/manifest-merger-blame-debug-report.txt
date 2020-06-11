@@ -1,0 +1,90 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="net.skhu.e05photo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:5:22-78
+12
+13    <uses-feature
+13-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:7:5-9:35
+14        android:name="android.hardware.camera"
+14-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:8:9-47
+15        android:required="true" />
+15-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:9:9-32
+16
+17    <application
+17-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:11:5-41:19
+18        android:allowBackup="true"
+18-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:12:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:13:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:14:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:15:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:16:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:17:9-40
+27        <activity
+27-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:18:9-21:68
+28            android:name="net.skhu.e05photo.Photo3Activity"
+28-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:19:13-43
+29            android:label="@string/title_activity_photo3"
+29-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:20:13-58
+30            android:theme="@style/AppTheme.NoActionBar" />
+30-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:21:13-56
+31        <activity android:name="net.skhu.e05photo.Photo2Activity" />
+31-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:22:9-52
+31-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:22:19-49
+32        <activity android:name="net.skhu.e05photo.Photo1Activity" />
+32-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:23:9-52
+32-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:23:19-49
+33        <activity android:name="net.skhu.e05photo.MainActivity" >
+33-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:24:9-30:20
+33-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:24:19-47
+34            <intent-filter>
+34-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:25:13-29:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:26:17-69
+35-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:26:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:28:17-77
+37-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:28:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <provider
+41-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:32:9-40:20
+42            android:name="androidx.core.content.FileProvider"
+42-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:33:13-62
+43            android:authorities="net.skhu.e05photo.fileProvider"
+43-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:34:13-65
+44            android:exported="false"
+44-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:35:13-37
+45            android:grantUriPermissions="true" >
+45-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:36:13-47
+46            <meta-data
+46-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:37:13-39:54
+47                android:name="android.support.FILE_PROVIDER_PATHS"
+47-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:38:17-67
+48                android:resource="@xml/file_paths" />
+48-->C:\Users\user\E05Photo\app\src\main\AndroidManifest.xml:39:17-51
+49        </provider>
+50    </application>
+51
+52</manifest>
