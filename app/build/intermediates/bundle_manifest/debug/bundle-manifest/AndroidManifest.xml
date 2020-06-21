@@ -25,6 +25,10 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="net.skhu.e05photo.Photo4Activity"
+            android:label="@string/title_activity_photo4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name="net.skhu.e05photo.Photo3Activity"
             android:label="@string/title_activity_photo3"
             android:theme="@style/AppTheme.NoActionBar" />
